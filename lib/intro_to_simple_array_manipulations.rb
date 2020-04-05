@@ -10,6 +10,6 @@ end
 
 def using_pop(array)
  array = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
-  cold = array.pop
+ array.pop
   
 end
